@@ -1,3 +1,7 @@
+self learning project 
+======
+origin project https://github.com/goodpaul6/Gstack
+
 Gstack
 ======
 
